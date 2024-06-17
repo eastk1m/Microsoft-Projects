@@ -1,0 +1,15 @@
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\obj\Debug\net8.0\3.3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\obj\Debug\net8.0\3.3D.AssemblyInfoInputs.cache
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\obj\Debug\net8.0\3.3D.AssemblyInfo.cs
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\obj\Debug\net8.0\3.3D.csproj.CoreCompileInputs.cache
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\obj\Debug\net8.0\3.3D.sourcelink.json
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\bin\Debug\net8.0\3.3D.exe
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\bin\Debug\net8.0\3.3D.deps.json
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\bin\Debug\net8.0\3.3D.runtimeconfig.json
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\bin\Debug\net8.0\3.3D.dll
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\bin\Debug\net8.0\3.3D.pdb
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\obj\Debug\net8.0\3.3D.dll
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\obj\Debug\net8.0\refint\3.3D.dll
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\obj\Debug\net8.0\3.3D.pdb
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\obj\Debug\net8.0\3.3D.genruntimeconfig.cache
+C:\MSSA-CCAD14\Week 3\3.3D\3.3D\obj\Debug\net8.0\ref\3.3D.dll

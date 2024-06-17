@@ -1,0 +1,15 @@
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\bin\Debug\net8.0\week 3 challenge # 3 do while loop.exe
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\bin\Debug\net8.0\week 3 challenge # 3 do while loop.deps.json
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\bin\Debug\net8.0\week 3 challenge # 3 do while loop.runtimeconfig.json
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\bin\Debug\net8.0\week 3 challenge # 3 do while loop.dll
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\bin\Debug\net8.0\week 3 challenge # 3 do while loop.pdb
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\obj\Debug\net8.0\week 3 challenge # 3 do while loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\obj\Debug\net8.0\week 3 challenge # 3 do while loop.AssemblyInfoInputs.cache
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\obj\Debug\net8.0\week 3 challenge # 3 do while loop.AssemblyInfo.cs
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\obj\Debug\net8.0\week 3 challenge # 3 do while loop.csproj.CoreCompileInputs.cache
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\obj\Debug\net8.0\week 3 challenge # 3 do while loop.sourcelink.json
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\obj\Debug\net8.0\week 3 challenge # 3 do while loop.dll
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\obj\Debug\net8.0\refint\week 3 challenge # 3 do while loop.dll
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\obj\Debug\net8.0\week 3 challenge # 3 do while loop.pdb
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\obj\Debug\net8.0\week 3 challenge # 3 do while loop.genruntimeconfig.cache
+C:\MSSA-CCAD14\Week 2\week 3 challenge # 3 do while loop\week 3 challenge # 3 do while loop\obj\Debug\net8.0\ref\week 3 challenge # 3 do while loop.dll

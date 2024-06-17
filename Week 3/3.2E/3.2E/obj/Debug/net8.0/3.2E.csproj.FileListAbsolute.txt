@@ -1,0 +1,15 @@
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\bin\Debug\net8.0\3.2E.exe
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\bin\Debug\net8.0\3.2E.deps.json
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\bin\Debug\net8.0\3.2E.runtimeconfig.json
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\bin\Debug\net8.0\3.2E.dll
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\bin\Debug\net8.0\3.2E.pdb
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\obj\Debug\net8.0\3.2E.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\obj\Debug\net8.0\3.2E.AssemblyInfoInputs.cache
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\obj\Debug\net8.0\3.2E.AssemblyInfo.cs
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\obj\Debug\net8.0\3.2E.csproj.CoreCompileInputs.cache
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\obj\Debug\net8.0\3.2E.sourcelink.json
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\obj\Debug\net8.0\3.2E.dll
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\obj\Debug\net8.0\refint\3.2E.dll
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\obj\Debug\net8.0\3.2E.pdb
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\obj\Debug\net8.0\3.2E.genruntimeconfig.cache
+C:\MSSA-CCAD14\Week 3\3.2E\3.2E\obj\Debug\net8.0\ref\3.2E.dll
