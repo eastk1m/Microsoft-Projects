@@ -1,0 +1,15 @@
+C:\MSSA-CCAD14\Week 5\6.4\6.4\bin\Debug\net8.0\6.4.exe
+C:\MSSA-CCAD14\Week 5\6.4\6.4\bin\Debug\net8.0\6.4.deps.json
+C:\MSSA-CCAD14\Week 5\6.4\6.4\bin\Debug\net8.0\6.4.runtimeconfig.json
+C:\MSSA-CCAD14\Week 5\6.4\6.4\bin\Debug\net8.0\6.4.dll
+C:\MSSA-CCAD14\Week 5\6.4\6.4\bin\Debug\net8.0\6.4.pdb
+C:\MSSA-CCAD14\Week 5\6.4\6.4\obj\Debug\net8.0\6.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA-CCAD14\Week 5\6.4\6.4\obj\Debug\net8.0\6.4.AssemblyInfoInputs.cache
+C:\MSSA-CCAD14\Week 5\6.4\6.4\obj\Debug\net8.0\6.4.AssemblyInfo.cs
+C:\MSSA-CCAD14\Week 5\6.4\6.4\obj\Debug\net8.0\6.4.csproj.CoreCompileInputs.cache
+C:\MSSA-CCAD14\Week 5\6.4\6.4\obj\Debug\net8.0\6.4.sourcelink.json
+C:\MSSA-CCAD14\Week 5\6.4\6.4\obj\Debug\net8.0\6.4.dll
+C:\MSSA-CCAD14\Week 5\6.4\6.4\obj\Debug\net8.0\refint\6.4.dll
+C:\MSSA-CCAD14\Week 5\6.4\6.4\obj\Debug\net8.0\6.4.pdb
+C:\MSSA-CCAD14\Week 5\6.4\6.4\obj\Debug\net8.0\6.4.genruntimeconfig.cache
+C:\MSSA-CCAD14\Week 5\6.4\6.4\obj\Debug\net8.0\ref\6.4.dll

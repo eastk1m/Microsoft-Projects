@@ -1,0 +1,15 @@
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\bin\Debug\net8.0\6.2B Queues.exe
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\bin\Debug\net8.0\6.2B Queues.deps.json
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\bin\Debug\net8.0\6.2B Queues.runtimeconfig.json
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\bin\Debug\net8.0\6.2B Queues.dll
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\bin\Debug\net8.0\6.2B Queues.pdb
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\obj\Debug\net8.0\6.2B Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\obj\Debug\net8.0\6.2B Queues.AssemblyInfoInputs.cache
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\obj\Debug\net8.0\6.2B Queues.AssemblyInfo.cs
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\obj\Debug\net8.0\6.2B Queues.csproj.CoreCompileInputs.cache
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\obj\Debug\net8.0\6.2B Queues.sourcelink.json
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\obj\Debug\net8.0\6.2B Queues.dll
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\obj\Debug\net8.0\refint\6.2B Queues.dll
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\obj\Debug\net8.0\6.2B Queues.pdb
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\obj\Debug\net8.0\6.2B Queues.genruntimeconfig.cache
+C:\MSSA-CCAD14\Week 5\6.2B Queues\6.2B Queues\obj\Debug\net8.0\ref\6.2B Queues.dll

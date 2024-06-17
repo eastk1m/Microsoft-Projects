@@ -1,0 +1,15 @@
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\bin\Debug\net8.0\6.2B (WB).exe
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\bin\Debug\net8.0\6.2B (WB).deps.json
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\bin\Debug\net8.0\6.2B (WB).runtimeconfig.json
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\bin\Debug\net8.0\6.2B (WB).dll
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\bin\Debug\net8.0\6.2B (WB).pdb
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\obj\Debug\net8.0\6.2B (WB).GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\obj\Debug\net8.0\6.2B (WB).AssemblyInfoInputs.cache
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\obj\Debug\net8.0\6.2B (WB).AssemblyInfo.cs
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\obj\Debug\net8.0\6.2B (WB).csproj.CoreCompileInputs.cache
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\obj\Debug\net8.0\6.2B (WB).sourcelink.json
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\obj\Debug\net8.0\6.2B (WB).dll
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\obj\Debug\net8.0\refint\6.2B (WB).dll
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\obj\Debug\net8.0\6.2B (WB).pdb
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\obj\Debug\net8.0\6.2B (WB).genruntimeconfig.cache
+C:\MSSA-CCAD14\Week 5\6.2B (WB)\6.2B (WB)\obj\Debug\net8.0\ref\6.2B (WB).dll
