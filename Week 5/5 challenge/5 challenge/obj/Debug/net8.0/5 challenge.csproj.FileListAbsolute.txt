@@ -1,0 +1,15 @@
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\obj\Debug\net8.0\5 challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\obj\Debug\net8.0\5 challenge.AssemblyInfoInputs.cache
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\obj\Debug\net8.0\5 challenge.AssemblyInfo.cs
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\obj\Debug\net8.0\5 challenge.csproj.CoreCompileInputs.cache
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\obj\Debug\net8.0\5 challenge.sourcelink.json
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\bin\Debug\net8.0\5 challenge.exe
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\bin\Debug\net8.0\5 challenge.deps.json
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\bin\Debug\net8.0\5 challenge.runtimeconfig.json
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\bin\Debug\net8.0\5 challenge.dll
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\bin\Debug\net8.0\5 challenge.pdb
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\obj\Debug\net8.0\5 challenge.dll
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\obj\Debug\net8.0\refint\5 challenge.dll
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\obj\Debug\net8.0\5 challenge.pdb
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\obj\Debug\net8.0\5 challenge.genruntimeconfig.cache
+C:\MSSA-CCAD14\Week 5\5 challenge\5 challenge\obj\Debug\net8.0\ref\5 challenge.dll

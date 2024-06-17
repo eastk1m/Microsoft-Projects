@@ -1,0 +1,29 @@
+﻿namespace _5._1B
+{ 
+using System;
+
+public class Program
+{
+    public static int SumOfDigits(int number)
+    {
+        int sum = 0;
+        while (number != 0)
+        {
+            sum += number % 10;
+            number /= 10;
+        }
+        return sum;
+    }
+
+    public static void Main()
+    {
+        Console.Write("Enter a number: ");
+        int inputNumber = Convert.ToInt32(Console.ReadLine());
+
+        int result = SumOfDigits(inputNumber);
+
+        Console.WriteLine($"The sum of the digits of the number {inputNumber} is: {result}");
+    }
+}
+
+}
