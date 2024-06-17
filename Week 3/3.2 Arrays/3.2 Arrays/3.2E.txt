@@ -1,0 +1,6 @@
+﻿Build started at 1:26 AM...
+1>------ Build started: Project: 3.2E, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>3.2E -> C:\MSSA-CCAD14\Week 3\3.2E\3.2E\bin\Debug\net8.0\3.2E.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 1:26 AM and took 00.519 seconds ==========
