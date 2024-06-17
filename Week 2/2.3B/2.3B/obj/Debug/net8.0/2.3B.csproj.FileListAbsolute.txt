@@ -1,0 +1,15 @@
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\obj\Debug\net8.0\2.3B.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\obj\Debug\net8.0\2.3B.AssemblyInfoInputs.cache
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\obj\Debug\net8.0\2.3B.AssemblyInfo.cs
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\obj\Debug\net8.0\2.3B.csproj.CoreCompileInputs.cache
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\obj\Debug\net8.0\2.3B.sourcelink.json
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\bin\Debug\net8.0\2.3B.exe
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\bin\Debug\net8.0\2.3B.deps.json
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\bin\Debug\net8.0\2.3B.runtimeconfig.json
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\bin\Debug\net8.0\2.3B.dll
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\bin\Debug\net8.0\2.3B.pdb
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\obj\Debug\net8.0\2.3B.dll
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\obj\Debug\net8.0\refint\2.3B.dll
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\obj\Debug\net8.0\2.3B.pdb
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\obj\Debug\net8.0\2.3B.genruntimeconfig.cache
+C:\MSSA-CCAD14\Week 1\2.3B\2.3B\obj\Debug\net8.0\ref\2.3B.dll

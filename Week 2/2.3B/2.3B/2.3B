@@ -1,0 +1,30 @@
+﻿namespace _2._3B
+{
+class TipCalculator
+        {
+            static void Main()
+            {
+                // Get the bill amount from the user
+                Console.Write("Enter the bill amount: ");
+                float billAmount = float.Parse(Console.ReadLine());
+
+                // Get the tip percentage from the user (default is 20%)
+                Console.Write("Enter the tip percentage (e.g., 15, 20, etc.): ");
+                float tipPercentage = float.Parse(Console.ReadLine());
+
+                // Convert the tip percentage to a decimal
+                float tipDecimal = tipPercentage / 100;
+
+                // Calculate the tip amount
+                float tipAmount = billAmount * tipDecimal;
+
+                // Calculate the total bill (including tip)
+                float totalBill = billAmount + tipAmount;
+
+                // Display the results
+                Console.WriteLine($"Tip amount: ${tipAmount:F2}");
+                Console.WriteLine($"Total bill (including tip): ${totalBill:F2}");
+            }
+        }
+    }
+   
