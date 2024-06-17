@@ -1,0 +1,15 @@
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\obj\Debug\net8.0\6.2.2internet.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\obj\Debug\net8.0\6.2.2internet.AssemblyInfoInputs.cache
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\obj\Debug\net8.0\6.2.2internet.AssemblyInfo.cs
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\obj\Debug\net8.0\6.2.2internet.csproj.CoreCompileInputs.cache
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\obj\Debug\net8.0\6.2.2internet.sourcelink.json
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\bin\Debug\net8.0\6.2.2internet.exe
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\bin\Debug\net8.0\6.2.2internet.deps.json
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\bin\Debug\net8.0\6.2.2internet.runtimeconfig.json
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\bin\Debug\net8.0\6.2.2internet.dll
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\bin\Debug\net8.0\6.2.2internet.pdb
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\obj\Debug\net8.0\6.2.2internet.dll
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\obj\Debug\net8.0\refint\6.2.2internet.dll
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\obj\Debug\net8.0\6.2.2internet.pdb
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\obj\Debug\net8.0\6.2.2internet.genruntimeconfig.cache
+C:\MSSA-CCAD14\Week 5\6.2.2internet\6.2.2internet\obj\Debug\net8.0\ref\6.2.2internet.dll
