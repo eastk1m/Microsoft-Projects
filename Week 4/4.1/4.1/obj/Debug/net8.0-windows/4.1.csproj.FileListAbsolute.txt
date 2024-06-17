@@ -1,0 +1,7 @@
+C:\MSSA-CCAD14\Week 3\4.1\4.1\obj\Debug\net8.0-windows\Person.resources
+C:\MSSA-CCAD14\Week 3\4.1\4.1\obj\Debug\net8.0-windows\4.1.csproj.GenerateResource.cache
+C:\MSSA-CCAD14\Week 3\4.1\4.1\obj\Debug\net8.0-windows\4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA-CCAD14\Week 3\4.1\4.1\obj\Debug\net8.0-windows\4.1.AssemblyInfoInputs.cache
+C:\MSSA-CCAD14\Week 3\4.1\4.1\obj\Debug\net8.0-windows\4.1.AssemblyInfo.cs
+C:\MSSA-CCAD14\Week 3\4.1\4.1\obj\Debug\net8.0-windows\4.1.csproj.CoreCompileInputs.cache
+C:\MSSA-CCAD14\Week 3\4.1\4.1\obj\Debug\net8.0-windows\4.1.sourcelink.json
