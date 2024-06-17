@@ -1,0 +1,15 @@
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\bin\Debug\net8.0\5.2D RADAR.exe
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\bin\Debug\net8.0\5.2D RADAR.deps.json
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\bin\Debug\net8.0\5.2D RADAR.runtimeconfig.json
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\bin\Debug\net8.0\5.2D RADAR.dll
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\bin\Debug\net8.0\5.2D RADAR.pdb
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\obj\Debug\net8.0\5.2D RADAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\obj\Debug\net8.0\5.2D RADAR.AssemblyInfoInputs.cache
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\obj\Debug\net8.0\5.2D RADAR.AssemblyInfo.cs
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\obj\Debug\net8.0\5.2D RADAR.csproj.CoreCompileInputs.cache
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\obj\Debug\net8.0\5.2D RADAR.sourcelink.json
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\obj\Debug\net8.0\5.2D RADAR.dll
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\obj\Debug\net8.0\refint\5.2D RADAR.dll
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\obj\Debug\net8.0\5.2D RADAR.pdb
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\obj\Debug\net8.0\5.2D RADAR.genruntimeconfig.cache
+C:\MSSA-CCAD14\Week 5\5.2D RADAR\5.2D RADAR\obj\Debug\net8.0\ref\5.2D RADAR.dll
