@@ -1,0 +1,4 @@
+C:\Users\eastk\source\repos\1.1 Numbers\1.1 Numbers\obj\Debug\net8.0\1.1 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eastk\source\repos\1.1 Numbers\1.1 Numbers\obj\Debug\net8.0\1.1 Numbers.AssemblyInfoInputs.cache
+C:\Users\eastk\source\repos\1.1 Numbers\1.1 Numbers\obj\Debug\net8.0\1.1 Numbers.AssemblyInfo.cs
+C:\Users\eastk\source\repos\1.1 Numbers\1.1 Numbers\obj\Debug\net8.0\1.1 Numbers.csproj.CoreCompileInputs.cache
