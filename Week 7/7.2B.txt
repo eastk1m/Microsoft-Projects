@@ -1,0 +1,8 @@
+﻿Build started at 5:10 AM...
+1>------ Build started: Project: 7.2B, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\MSSA-CCAD14\Week 7\7.2B\7.2B\Program.cs(42,25,42,29): warning CS8321: The local function 'Main' is declared but never used
+1>7.2B -> C:\MSSA-CCAD14\Week 7\7.2B\7.2B\bin\Debug\net8.0\7.2B.dll
+1>Done building project "7.2B.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 5:10 AM and took 00.751 seconds ==========
