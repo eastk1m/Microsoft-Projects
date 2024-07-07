@@ -1,0 +1,104 @@
+4.1
+Design a personal phone /address book using Dictionary collection. Write a person class to store details of person like : FirstName , LastName , Mobile Phone , Work Phone and Address.
+Provide a grid to display all, add more, delete ( with confirmation message) and search by name.
+
+Search should show details of person searched. You may use the key as name of person.
+
+4.2
+2. Create an interface for ICalculator for methods like add, subtract, divide, multiply and implement them in a class: Math.
+
+Use winforms to design a simple calculator with textboxes and buttons . Use the above designed interface in the calculator.
+
+Design a mini learning management for Teacher Role. Allow the Teacher to login. If the User id is “Teacher” and password “Admin” allow the user to get into the system and open another form. Allow teacher to add student with following fields:
+
+Student Id
+
+Student name
+
+GPA
+
+Use any suitable generic list to save students in it.
+
+Save the details of the student with highest GPA in a text file.
+
+Allow teacher to delete the student.
+
+** Write class for Student and include necessary properties in them.
+
+Challenge Labs
+Week 4 Challenge Labs
+Write a program in C# Sharp to calculate and print the Electricity bill of a given customer. The customer id., name and unit consumed by the user should be taken from the user and display the total amount to pay to the customer. The charge are as follows: (you may change the charge sheet values)
+
+Unit
+
+Charge/unit
+
+upto 199
+
+@1.20
+
+200 and above but less than 400
+
+@1.50
+
+400 and above but less than 600
+
+@1.80
+
+600 and above
+
+@2.00
+
+If bill exceeds $ 400 then a surcharge of 15% will be charged.
+
+Test Data :
+1001
+James
+800
+Expected Output :
+Customer IDNO :1001
+Customer Name :James
+unit Consumed :800
+Amount Charges @$ 2.00 per unit : 1600.00
+Surcharge Amount : 240.00
+Net Amount Paid By the Customer : 1840.00
+
+2. Write a program in C# Sharp to count the frequency of each element of an array.
+Test Data :
+Input the number of elements to be stored in the array :3
+Input 3 elements in the array :
+element - 0 : 25
+element - 1 : 12
+element - 2 : 43
+Expected Output :
+Frequency of all elements of array :
+25 occurs 1 times
+12 occurs 1 times
+43 occurs 1 times
+
+You may consider another array to store the frequencies.
+
+3. Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+An input string is valid if:
+
+Open brackets must be closed by the same type of brackets.
+Open brackets must be closed in the correct order.
+Every close bracket has a corresponding open bracket of the same type.
+Example 1:
+
+Input: s = "()"
+
+Output: true
+
+Example 2:
+
+Input: s = "()[]{}"
+
+Output: true
+
+Example 3:
+
+Input: s = "(]"
+
+Output: false
