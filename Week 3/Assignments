@@ -1,0 +1,201 @@
+3.1
+Return even numbers
+Write a method that returns a string of even numbers greater than 0 and less than 100.
+
+(Use StringBuilder class)
+
+Expected input and output
+
+ReturnEvenNumbers() → "2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98"
+
+2. If year is leap
+
+Given a year as integer, write a method that checks if year is leap.
+
+Expected input and output
+
+IfYearIsLeap(2016) → true IfYearIsLeap(2018) → false
+
+3. Write a program in C# Sharp to create a function to input a string and count number of spaces are in the string.
+Test Data :
+Please input a string : This is a test string.
+Expected Output :
+"This is a test string." contains 4 spaces
+
+4. Write a C# Sharp program to accept a coordinate point in an XY coordinate system and determine in which quadrant the coordinate point lies.
+Test Data :
+Input the value for X coordinate :7
+Input the value for Y coordinate :9
+Expected Output :
+The coordinate point (7,9) lies in the First quadrant.
+5. Write a function which takes an array as input and finds the first occurrence of 2 consecutive 1s and changes their value to 0.
+
+For e.g: Input : [0,2,1,1,9,1,1]
+
+Output: [0,2,0,0,9,1,1]
+
+3.2
+1. Create a 2D array to store integers and print them in matrix format with proper formatting.
+
+e. g:
+
+| 2 | 3 | 4 |
+
+| 1 | 4 | 6 |
+
+2. Write a program in C# Sharp for addition of two Matrices of same size.
+
+Test Data :
+
+Input the size of the square matrix (less than 5): 2
+
+Input elements in the first matrix :
+
+element - [0],[0] : 1
+
+element - [0],[1] : 2
+
+element - [1],[0] : 3
+
+element - [1],[1] : 4
+
+Input elements in the second matrix :
+
+element - [0],[0] : 5
+
+element - [0],[1] : 6
+
+element - [1],[0] : 7
+
+element - [1],[1] : 8
+
+Expected Output:
+
+The First matrix is:
+
+1 2
+
+3 4
+
+The Second matrix is :
+
+5 6
+
+7 8
+
+The Addition of two matrix is :
+
+6 8
+
+10 12
+
+3. Create a console application to overload “+” and “-“ operator for adding the areas of 2 circles and getting their area difference respectively.
+
+
+4. Write a function that takes 4 numbers as input to calculate the total and average.
+(Make use of params array to pass arguments and out parameters to return both total and average to main method).
+Test Data:
+Enter the First number: 10
+Enter the Second number: 15
+Enter the third number: 20
+Enter the fourth number: 30
+
+Expected Output:
+The average of 10 , 15 , 20 , 30 is: 18.75
+The total is 75
+
+5. Create a function that finds the index of a given item in the array
+
+Examples
+
+Search([1, 5, 3], 5) ➞ 1
+
+Search([9, 8, 3], 3) ➞ 2
+
+Search([1, 2, 3], 4) ➞ -1
+
+Notes
+
+If the item is not present, return -1.
+
+3.3
+Windows form assignments
+
+Use different controls on windows forms and change their properties (do not submit this assignment)
+Create a structure : Student with fields like studid, firstname, lastname, address,monthofadmission,grade to hold character.
+Create a list of students and perform following operations in windows application:
+
+add new records,
+delete record and
+display them in grid.
+Monthofadmission should be enum.
+
+3.4
+Assignments 3.4
+Create an abstract base class to represent “Beverage” and inherit “Coffee” class from it. Create a list ( you may use List class) of coffees. Design windows form application to display the list of coffees in grid and perform add/ delete.
+Keep some base properties in Beverage class which can be inherited in Coffee. Inherited class can have more specific properties. Properties are customizable as needed.
+
+Week 3 Challenge Labs
+1. Given a string, write a method that checks if it is a palindrome (is read the same backward as forward). Assume that string may consist only of lower-case letters.
+
+Expected input and output
+
+IsPalindrome("eye") → true
+
+IsPalindrome("home") → false
+
+2. Sum digits in string
+
+Given a string, write a method which returns sum of all digits in that string. Assume that string contains only single digits.
+
+Expected input and output
+
+SumDigitsInString("1q2w3e") → 6 SumDigitsInString("L0r3m.1p5um") → 9
+
+SumDigitsInString("") → 0
+
+3. Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+Input: nums = [2,7,11,15], target = 9
+
+Output: [0,1]
+
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+
+4. You are given a string s consisting only of uppercase English letters.
+
+You can apply some operations to this string where, in one operation, you can remove any occurrence of one of the substrings "AB" or "CD" from s.
+
+Return the minimum possible length of the resulting string that you can obtain.
+
+Note that the string concatenates after removing the substring and could produce new "AB" or "CD" substrings.
+
+**Hint : Use Replace method of string.
+
+Example 1:
+
+Input: s = "ABFCACDB"
+
+Output: 2
+
+Explanation: We can do the following operations:
+
+- Remove the substring "ABFCACDB", so s = "FCACDB".
+
+- Remove the substring "FCACDB", so s = "FCAB".
+
+- Remove the substring "FCAB", so s = "FC".
+
+So the resulting length of the string is 2.
+
+It can be shown that it is the minimum length that we can obtain.
+
+Example 2:
+
+Input: s = "ACBBD"
+
+Output: 5
+
+Explanation: We cannot do any operations on the string so the length remains the same.
