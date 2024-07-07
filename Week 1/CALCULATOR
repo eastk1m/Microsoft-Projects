@@ -1,0 +1,64 @@
+using System;
+
+namespace CalculatorApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+                Console.WriteLine("\nMenu:");
+                Console.WriteLine("1. Add");
+                Console.WriteLine("2. Subtract");
+                Console.WriteLine("3. Multiply");
+                Console.WriteLine("4. Divide");
+                Console.WriteLine("5. Exit");
+
+                Console.Write("Enter your choice (1/2/3/4/5): ");
+                string choice = Console.ReadLine();
+
+                if (choice == "5")
+                {
+                    Console.WriteLine("Exiting the program. Goodbye!");
+                    break;
+                }
+
+                try
+                {
+                    Console.Write("Enter first number: ");
+                    double num1 = double.Parse(Console.ReadLine());
+
+                    Console.Write("Enter second number: ");
+                    double num2 = double.Parse(Console.ReadLine());
+
+                    switch (choice)
+                    {
+                        case "1":
+                            Console.WriteLine($"Result: {num1 + num2}");
+                            break;
+                        case "2":
+                            Console.WriteLine($"Result: {num1 - num2}");
+                            break;
+                        case "3":
+                            Console.WriteLine($"Result: {num1 * num2}");
+                            break;
+                        case "4":
+                            if (num2 != 0)
+                                Console.WriteLine($"Result: {num1 / num2}");
+                            else
+                                Console.WriteLine("Error: Division by zero");
+                            break;
+                        default:
+                            Console.WriteLine("Invalid choice. Please select a valid option.");
+                            break;
+                    }
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Invalid input. Please enter numeric values.");
+                }
+            }
+        }
+    }
+}
