@@ -1,0 +1,98 @@
+7.1
+1. You are a student who has recently taken an exam with your classmates. However, the professor has not yet provided the students with a sorted list of exam scores. To make things easier, you write a program to sort exam scores in ascending order using the selection sort algorithm. This way, you can obtain the sorted list of scores and see how you performed compared to your classmates. Also, you choose selection sort since that is an easy way of implementation.
+2. You are given two strings word1 and word2. Merge the strings by adding letters in alternating order, starting with word1. If a string is longer than the other, append the additional letters onto the end of the merged string.
+Return the merged string.
+
+Example 1:
+Input: word1 = "abc", word2 = "pqr"
+Output: "apbqcr"
+Explanation: The merged string will be merged as so:
+word1: a b c
+word2: p q r
+merged: a p b q c r
+
+Example 2:
+Input: word1 = "ab", word2 = "pqrs"
+Output: "apbqrs"
+Explanation: Notice that as word2 is longer, "rs" is appended to the end.
+word1: a b
+word2: p q r s
+merged: a p b q r s
+
+7.2
+1. Implement shell sort on an unsorted array of numbers. Take the array input from user.
+
+2. Given a string s, reverse only all the vowels in the string and return it.
+
+The vowels are 'a', 'e', 'i', 'o', and 'u', and they can appear in both lower and upper cases, more than once.
+
+Example 1:
+
+Input: s = "hello"
+
+Output: "holle"
+
+Example 2:
+
+Input: s = "avacado"
+
+Output: "ovacada"
+
+Example 3: “intelligent”- i , e, i, e
+
+Output: entillegint
+
+3. Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+
+An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+Example 1:
+
+Input: s = "anagram", t = "nagaram"
+
+Output: true
+
+Example 2:
+
+Input: s = "rat", t = "car"
+
+Output: false
+
+7.3
+1. You are given the root of a binary search tree (BST) and an integer val.
+
+Find the node in the BST that the node's value equals val and return the subtree rooted with that node. If such a node does not exist, return null.
+
+7.4
+Assignment 7.4
+Design a parking system for a parking lot. The parking lot has three kinds of parking spaces: big, medium, and small, with a fixed number of slots for each size.
+
+Implement the ParkingSystem class:
+
+• ParkingSystem(int big, int medium, int small) Initializes object of the ParkingSystem class. The number of slots for each parking space are given as part of the constructor.
+
+• bool addCar(int carType) Checks whether there is a parking space of carType for the car that wants to get into the parking lot. carType can be of three kinds: big, medium, or small, which are represented by 1, 2, and 3 respectively. A car can only park in a parking space of its carType. If there is no space available, return false, else park the car in that size space and return true.
+
+Example 1:
+
+Input
+
+["ParkingSystem", "addCar", "addCar", "addCar", "addCar"]
+
+[[1, 1, 0], [1], [2], [3], [1]]
+
+Output
+
+[null, true, true, false, false]
+
+Explanation
+
+ParkingSystem parkingSystem = new ParkingSystem(1, 1, 0);
+
+parkingSystem.addCar(1); // return true because there is 1 available slot for a big car
+
+parkingSystem.addCar(2); // return true because there is 1 available slot for a medium car
+
+parkingSystem.addCar(3); // return false because there is no available slot for a small car
+
+parkingSystem.addCar(1); // return false because there is no available slot for a big car. It is already occupied.
