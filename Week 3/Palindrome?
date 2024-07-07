@@ -1,0 +1,19 @@
+using System;
+
+class Program
+{
+    static bool IsPalindrome(string s)
+    {
+        // Remove spaces and convert to lowercase
+        s = s.Replace(" ", "").ToLower();
+
+        // Check if the string is equal to its reverse
+        return s == new string(s.Reverse().ToArray());
+    }
+
+    static void Main(string[] args)
+    {
+        Console.WriteLine(IsPalindrome("eye"));  // Output: True
+        Console.WriteLine(IsPalindrome("home")); // Output: False
+    }
+}
