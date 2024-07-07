@@ -1,0 +1,49 @@
+1.1
+Create a simple console application and store your name, age (should take decimal), address in a string variable and print them back on console. Prompt the user to each time enter name, age and address.
+Create a simple console application and declare basic datatypes like int, float, decimal, double and print their min and max values.
+Write a C# Sharp program to print the sum of two numbers.
+Write a C# Sharp program to print the result of dividing two numbers.
+
+1.2 
+Write a C# Sharp program to accept two integers and check whether they are equal or not.
+Test Data :
+Input 1st number: 5
+Input 2nd number: 5
+Expected Output :
+5 and 5 are equal
+Test Data :
+Input 1st number: 5
+Input 2nd number: 15
+Expected Output :
+5 and 15 are not equal
+Write a C# Sharp program to find the sum of first 10 natural numbers.
+Expected Output :
+The first 10 natural number is :
+1 2 3 4 5 6 7 8 9 10
+The Sum is : 55
+Write a menu driven application to perform calculation functions like addition, subtraction, multiplication, and division. Call them appropriately when user selects the option. Give the user the option to continue or exit the program.
+
+1.3
+Assignment 1.3
+1.Write a program in C# to calculate area of triangle, square and rectangle. Write 3 different functions for each shape to take dimensions of figure and display the area. You may create menus.
+
+2.Write a program in C# to read n number of values in an array and display it in reverse order.
+Test Data :
+Input the number of elements to store in the array :3
+Input 3 number of elements in the array :
+element - 0 : 2
+element - 1 : 5
+element - 2 : 7
+Expected Output:
+The values store into the array are:
+2 5 7
+The values store into the array in reverse are :
+7 5 2
+
+1.3.1
+Write a simple console application to generate mathematical errors and handle them by exception handling.
+Use debugging tools in Visual studio.
+
+1.4 
+Create a structure named “Point” and 2 data members: X and Y coordinate. Declare 2 points: P1 and P2. Determine if P2 is to the right or left of P1 or on same axis , by comparing the x xoordinates. ( if p1.x is more than p2.x , it is to the right )
+                                                                                                                                                                                                       
