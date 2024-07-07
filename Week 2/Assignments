@@ -1,0 +1,15 @@
+2.1
+Write a class: “Student” with private data members: StudentId ( int), StudentFname (string), StudentLname (string ), StudentGrade ( char ) and public properties for each data member. Instantiate the class and assign data to properties. Display the data back on console.
+
+2. Design a class hierarchy of your choice. (Need only class files )
+
+(see Boxer Diagram)
+Pet > dog > Hound (Beagle), Terrier (Welsh Terrier), Working (Boxer)
+
+3. Overloading: Write a simple Maths class ( don’t use the keyword Math, it will be a conflict with standard class from system). Write overloaded methods with logic and give choice to user to call different methods :
+a. Add(int num1, int num2)
+b. Add(decimal num1, decimal num2, decimal num3)
+c. Multiply(float num1, float num2)
+d. Multiply( float num1, float num2, float num3)
+Declare these methods as public and static.
+
