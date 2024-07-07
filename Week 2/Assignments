@@ -13,3 +13,73 @@ c. Multiply(float num1, float num2)
 d. Multiply( float num1, float num2, float num3)
 Declare these methods as public and static.
 
+2.2
+ Write a base class: ‘Shape’ and add properties like id, name and color and method like ‘calculate area’ .
+
+Inherit circle shape from base class and add properties like radius. override calculate area logic for circle.
+
+Inherit square class from shape and add change the calculate area logic. Add property like side of square.
+
+Take the input from user to select circle or square and display the calculated area . no hard coded values!
+
+
+2.3
+1. Write a console application to create a text file and save your basic details like name, age, address ( use dummy data). Read the details from same file and print on console.
+
+2. Design a tip calculator : enter the bill total, tip % and display grand total after adding tip.
+
+Use the format specifiers to display currency, % symbol.
+
+Challenge Labs
+1. Write a C# Sharp program to read temperature in fahrenheit and display a suitable message according to temperature state below :
+Temp 0< 10 then Freezing weather
+Temp 11-20 then Very Cold weather
+Temp 21-35 then Cold weather
+Temp 36-50 then Normal in Weather
+Temp 51-65 then Its Hot
+Temp 66-80 then Its Very Hot
+Test Data :
+67
+Expected Output :
+Its very hot.
+2. Write a program in C# Sharp to create and copy the file to another name and display the content. You may use any file names and any content that you like .Purpose is to use create and copy functionality along with read file.
+Expected Output :
+Here is the content of the file mytest.txt :
+Hello and Welcome
+It is the first content
+of the text file mytest.txt
+
+The file mytest.txt successfully copied to the name mynewtest.txt in the same directory.
+Here is the content of the file mynewtest.txt :
+Hello and Welcome
+It is the first content
+of the text file mytest.txt
+
+3. Write a C# Sharp program that takes userid and password as input (type string). After 3 wrong attempts, user will be rejected.
+4. Write a C# Sharp program that takes a number and a width also a number, as input and then displays a triangle of that width, using that number.
+Test Data
+Enter a number: 6
+Enter the desired width: 6
+Expected Output:
+666666
+66666
+6666
+666
+66
+6
+
+5. Write a C# Sharp program to read roll no, name and marks of three subjects and calculate the total, percentage and division. You may create a structure for the student.
+Test Data :
+Input the Roll Number of the student :784
+Input the Name of the Student :James
+Input the marks of Physics, Chemistry and Computer Application : 70 80 90
+Expected Output :
+Roll No : 784
+Name of Student : James
+Marks in Physics : 70
+Marks in Chemistry : 80
+Marks in Computer Application : 90
+Total Marks = 240
+Percentage = 80.00
+Division = First
+
