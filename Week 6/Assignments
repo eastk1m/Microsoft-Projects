@@ -1,0 +1,82 @@
+6.1
+1. Implement a single linked list with each node representing a house. You may add data in it like house number, brief address, type of house ( like Ranch, Colonial) . each house (node) will be linked to next .Give facility to the user to search a house by its number and then display the details. ( Windows / Console)
+
+2. Explore Linkedlist class from C# library.
+
+3. Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+
+Note that you must do this in-place without making a copy of the array.
+
+
+Example 1:
+
+Input: nums = [0,1,0,3,12]
+Output: [1,3,12,0,0]
+Example 2:
+
+Input: nums = [0]
+Output: [0]
+
+6.2
+1. Write a C# program to implement a stack by using array with push and pop operations.
+
+2. Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
+
+The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.
+
+You must write an algorithm that runs in O(n) time and without using the division operation.
+
+
+
+Example 1:
+
+Input: nums = [1,2,3,4]
+Output: [24,12,8,6]
+Example 2:
+
+Input: nums = [-1,1,0,-3,3]
+Output: [0,0,9,0,0]
+
+6.3
+You are developing a program to manage a call queue of customers using the Queue in C#. The program creates a queue of callers and demonstrates the functionality of enqueueing elements into the queue and iterating over the elements and dequeuing.
+
+Use linked lists.
+
+6.4
+You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
+
+You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
+
+Example 1:
+
+
+
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+
+Output: [[7,4,1],[8,5,2],[9,6,3]]
+
+Example 2:
+
+
+
+Input: matrix = [[5,1,9,11],[2,4,8,10],[1You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
+
+You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
+
+Example 1:
+
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+
+Output: [[7,4,1],[8,5,2],[9,6,3]]
+
+Example 2:
+
+Input: matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]
+
+Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]3,3,6,7],[15,14,12,16]]
+
+Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
+
+
+
+
