@@ -1,0 +1,137 @@
+Mod 1 Basics
+
+Assignments:
+
+1. Given an integer x, return true if x is a palindrome, and false otherwise.
+
+Example 1:
+
+Input: x = 121
+
+Output: true
+
+Explanation: 121 reads as 121 from left to right and from right to left.
+
+Example 2:
+
+Input: x = -121
+
+Output: false
+
+Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+
+2. Write a program in C# Sharp to create a function to calculate the sum of the individual digits of a given number.
+
+Test Data :
+
+Enter a number: 1234
+
+Expected Output :
+
+The sum of the digits of the number 1234 is : 10
+
+3. Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+
+Example 1:
+
+Input: nums = [1,2,3,1]
+
+Output: true
+
+Example 2:
+
+Input: nums = [1,2,3,4]
+
+Output: false
+
+Example 3:
+
+Input: nums = [1,1,1,3,3,4,3,2,4,2]
+
+Output: true
+
+5.2
+Mod 2
+1. Given a string s consisting of words and spaces, return the length of the last word in the string. A word is a maximal substring consisting of non-space characters only.
+
+Example 1:
+
+Input: s = "Hello World"
+Output: 5
+Explanation: The last word is "World" with length 5.
+Example 2:
+
+Input: s = " fly me to the moon "
+Output: 4
+Explanation: The last word is "moon" with length 4.
+
+2. Write a program in C# Sharp to print the first n natural number using recursion.
+Test Data :
+How many numbers to print : 10
+Expected Output :
+1 2 3 4 5 6 7 8 9 10
+
+3. Write a program in C# Sharp to print numbers from n to 1 using recursion.
+Test Data :
+How many numbers to print : 10
+Expected Output :
+10 9 8 7 6 5 4 3 2 1
+
+4. Write a program in C# Sharp to check whether a given string is Palindrome or not using recursion.
+Test Data :
+Input a string : RADAR
+Expected Output :
+The string is Palindrome.
+
+5.3
+Mod 3
+
+1. You have a long flowerbed in which some of the plots are planted, and some are not. However, flowers cannot be planted in adjacent plots.
+
+Given an integer array flowerbed containing 0's and 1's, where 0 means empty and 1 means not empty, and an integer n, return true if n new flowers can be planted in the flowerbed without violating the no-adjacent-flowers rule and false otherwise.
+
+Example 1:
+
+Input: flowerbed = [1,0,0,0,1], n = 1
+
+Output: true
+
+Example 2:
+
+Input: flowerbed = [1,0,0,0,1], n = 2
+
+Output: false
+
+2. You are climbing a staircase. It takes n steps to reach the top.
+
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+
+
+
+Example 1:
+
+Input: n = 2
+
+Output: 2
+
+Explanation: There are two ways to climb to the top.
+
+1. 1 step + 1 step
+
+2. 2 steps
+
+
+
+Example 2:
+
+Input: n = 3
+
+Output: 3
+
+Explanation: There are three ways to climb to the top.
+
+1. 1 step + 1 step + 1 step
+
+2. 1 step + 2 steps
+
+3. 2 steps + 1 step
