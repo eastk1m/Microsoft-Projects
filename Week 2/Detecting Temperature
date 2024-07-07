@@ -1,0 +1,36 @@
+using System;
+
+namespace TemperatureState
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Read temperature in Fahrenheit from user input
+            Console.Write("Enter temperature in Fahrenheit: ");
+            double temperatureFahrenheit;
+            if (double.TryParse(Console.ReadLine(), out temperatureFahrenheit))
+            {
+                // Determine the temperature state based on the given ranges
+                if (temperatureFahrenheit < 10)
+                    Console.WriteLine("Freezing weather");
+                else if (temperatureFahrenheit <= 20)
+                    Console.WriteLine("Very cold weather");
+                else if (temperatureFahrenheit <= 35)
+                    Console.WriteLine("Cold weather");
+                else if (temperatureFahrenheit <= 50)
+                    Console.WriteLine("Normal weather");
+                else if (temperatureFahrenheit <= 65)
+                    Console.WriteLine("It's hot");
+                else if (temperatureFahrenheit <= 80)
+                    Console.WriteLine("It's very hot");
+                else
+                    Console.WriteLine("Invalid temperature input");
+            }
+            else
+            {
+                Console.WriteLine("Invalid input. Please enter a valid numeric value.");
+            }
+        }
+    }
+}
