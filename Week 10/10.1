@@ -1,0 +1,71 @@
+using System;
+using System.IO;
+using System.Runtime.Serialization;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.Xml.Serialization;
+using Newtonsoft.Json;
+
+[Serializable]
+public class Student
+{
+    public string Name { get; set; }
+    public int Age { get; set; }
+    public string Major { get; set; }
+
+    public override string ToString()
+    {
+        return $"Student(Name: {Name}, Age: {Age}, Major: {Major})";
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        // Create an instance of Student
+        var student = new Student
+        {
+            Name = "John Doe",
+            Age = 20,
+            Major = "Computer Science"
+        };
+
+        // Serialize to Binary format
+        using (var stream = new FileStream("student.bin", FileMode.Create))
+        {
+            var formatter = new BinaryFormatter();
+            formatter.Serialize(stream, student);
+        }
+
+        // Deserialize from Binary format
+        using (var stream = new FileStream("student.bin", FileMode.Open))
+        {
+            var formatter = new BinaryFormatter();
+            var deserializedStudent = (Student)formatter.Deserialize(stream);
+            Console.WriteLine($"Deserialized from Binary: {deserializedStudent}");
+        }
+
+        // Serialize to JSON format
+        var jsonStr = JsonConvert.SerializeObject(student);
+        File.WriteAllText("student.json", jsonStr);
+
+        // Deserialize from JSON format
+        var jsonContent = File.ReadAllText("student.json");
+        var deserializedStudentJson = JsonConvert.DeserializeObject<Student>(jsonContent);
+        Console.WriteLine($"Deserialized from JSON: {deserializedStudentJson}");
+
+        // Serialize to XML format
+        var xmlSerializer = new XmlSerializer(typeof(Student));
+        using (var xmlStream = new FileStream("student.xml", FileMode.Create))
+        {
+            xmlSerializer.Serialize(xmlStream, student);
+        }
+
+        // Deserialize from XML format
+        using (var xmlStream = new FileStream("student.xml", FileMode.Open))
+        {
+            var deserializedStudentXml = (Student)xmlSerializer.Deserialize(xmlStream);
+            Console.WriteLine($"Deserialized from XML: {deserializedStudentXml}");
+        }
+    }
+}
